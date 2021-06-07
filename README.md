@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BhavyaVermalol
-- 👀 I’m interested in c00000000000000000000000000000000000000000000000000ding (ig so)
+- 👀 I’m interested in c0ding (ig so)
 - 🌱 I’m currently learning sweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeft (lernt it lol)
 - 💞️ I’m looking to collaborate on Gugal (they wont take me lul) 
 - 📫 How to reach me thuru bike/skootar/cawr/trayn/playn/boat/shipp etc. (ya etc. cuz Im lazy lol)
