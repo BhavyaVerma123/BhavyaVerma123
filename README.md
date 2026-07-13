@@ -1,7 +1,7 @@
 # 💫 About Me:
 # 👋 Hi, I'm Bhavya!
 
-🚀 **3rd Year College Student | AI/ML & DSA Enthusiast**
+🚀 **Pre-Final Year Engineering Student | AI/ML & DSA Enthusiast**
 
 I’m a passionate developer focused on building intelligent systems and solving complex computational problems. With a strong foundation in Data Structures & Algorithms, I bridge the gap between robust software engineering and machine learning.
 
