@@ -1,6 +1,27 @@
 # 💫 About Me:
-🔭 Working on: ML Projects and WebDevelopment<br>👯 Open to collaborate on: Open source / AI-ML projects  <br>🤝 Looking for help with: Advanced ML <br>🌱 Currently learning: Nueral Networks/ Deep Learning
+# 👋 Hi, I'm Bhavya!
 
+🚀 **3rd Year College Student | AI/ML & DSA Enthusiast**
+
+I’m a passionate developer focused on building intelligent systems and solving complex computational problems. With a strong foundation in Data Structures & Algorithms, I bridge the gap between robust software engineering and machine learning.
+
+---
+
+### 💻 What I Do
+* 🤖 **AI/ML:** Developing and fine-tuning computer vision and predictive models (check out my Crop Disease Detector!).
+* 🧠 **DSA:** Actively solving algorithmic challenges to optimize code efficiency.
+* 🌐 **Full-Stack Development:** Experienced in building responsive web applications.
+
+### 💼 Experience
+* 📈 **AI/ML Intern:** Engineered data pipelines and trained machine learning architectures.
+* 🕸️ **Web Development Intern:** Built and optimized user-facing web applications.
+
+### 🛠️ Tech Stack
+* **Languages:** Python, C++, JavaScript
+* **AI/ML:** TensorFlow / PyTorch, Scikit-Learn, Computer Vision
+* **Web Dev:** Flask, HTML/CSS, node.js, JS, MongoDB
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhvyvrma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-verma-7273bb371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavya.vrma@gmail.com) 
